@@ -1,0 +1,6 @@
+Time complexity estimates how runtime grows as input size increases.
+Big-O notation describes an upper bound on growth rate.
+Common complexities include O(1), O(log n), O(n), O(n log n), and O(n^2).
+Binary search runs in O(log n) on sorted arrays, while linear search is O(n).
+Merge sort has O(n log n) time complexity and uses divide-and-conquer.
+Understanding complexity helps choose efficient algorithms for large datasets.

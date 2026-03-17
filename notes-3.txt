@@ -1,0 +1,6 @@
+Newton's three laws of motion explain how objects move.
+First law: an object stays at rest or in uniform motion unless acted on by an external force.
+Second law: force equals mass times acceleration (F = m * a), meaning heavier objects need more force.
+Third law: for every action, there is an equal and opposite reaction.
+These laws are used in engineering, sports analysis, and vehicle safety design.
+They are foundational ideas in classical mechanics.

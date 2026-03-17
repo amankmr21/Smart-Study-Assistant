@@ -1,0 +1,6 @@
+The TCP/IP model is the foundation of internet communication.
+The application layer includes protocols like HTTP, SMTP, and DNS.
+The transport layer uses TCP for reliable delivery and UDP for faster, connectionless delivery.
+The internet layer handles addressing and routing with IP.
+The network access layer sends data across physical networks like Ethernet or Wi-Fi.
+Data is encapsulated as it moves down the layers and decapsulated at the destination.
