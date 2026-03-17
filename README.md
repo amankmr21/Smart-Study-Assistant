@@ -47,6 +47,3 @@ Run commands from the project root.
 - Prompt engineering for multiple AI tasks
 - Reusable LLM workflow design
 - Robust CLI input/output handling
-
-## Resume bullet
-Built a Python-based AI study assistant using Groq API to perform text summarization, beginner-friendly concept explanation, and quiz generation through prompt engineering and reusable LLM workflows.
